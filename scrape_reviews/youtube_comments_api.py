@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 import pandas as pd
 
-api_key = 'AIzaSyD4ZDrNsQ2gfZqWVm_6J9rQtBy-OeA_WeY'
+api_key = 'XXXXXXXX'
 
 def video_comments(video_id):
     all_data = []
