@@ -1,4 +1,4 @@
-##### Dexamethasone a popular drug used for treatments of Covid-19 in extreme oxygen droppage cases. This drug was widely used in second wave of Covid-19 in India and UK. It worked as a life saviour in many cases.  However, it also had some drawbacks as it weakens the immune system and many some people got infected with Black Fungus. 
+##### Dexamethasone a popular drug used for treatments of Covid-19 in extreme oxygen droppage cases. This drug was widely used in second wave of Covid-19 in India and UK. It worked as a life saviour in many cases.  However, it also had some drawbacks as it weakens the immune system and people got infected with Black Fungus. 
 
 #### I have scraped reviews and comments from social media platforms including youtube,reddit and medicine reviews websites, and finally performed lexical approach of Sentiment anlysis to draw some insights on the drug in Covid-19 patients.
 
